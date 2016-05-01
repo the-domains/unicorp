@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[UNICORP]]></title>
-        <description><![CDATA[UNICORP]]></description>
+        <title><![CDATA[Unicorp Global]]></title>
+        <description><![CDATA[Unicorp Global]]></description>
         <link>https://thegrid.ai/unicorp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 13:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 13:48:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unicorp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What is Unicorp ?</p>]]></description>
             <link>https://thegrid.ai/unicorp/what-is-unicorp/index.html</link>
             <guid isPermaLink="false">2fd5ae48-0707-431f-b931-fc2f91bd7ad3</guid>
-            <pubDate>Sun, 01 May 2016 13:45:39 GMT</pubDate>
+            <pubDate>Sun, 01 May 2016 13:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
