@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What is Unicorp ?
-datePublished: '2016-05-01T13:45:39.667Z'
-dateModified: '2016-05-01T13:45:38.712Z'
+datePublished: '2016-05-01T13:48:22.591Z'
+dateModified: '2016-05-01T13:48:03.879Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-what-is-unicorp.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: what-is-unicorp/index.html
 _type: Article
 
