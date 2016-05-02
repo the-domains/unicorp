@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What is Unicorp ?
-datePublished: '2016-05-01T13:48:22.591Z'
-dateModified: '2016-05-01T13:48:03.879Z'
+datePublished: '2016-05-02T15:25:34.255Z'
+dateModified: '2016-05-02T15:24:55.136Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-what-is-unicorp.md
@@ -22,4 +22,12 @@ url: what-is-unicorp/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d60f7e44-0729-4183-a3c2-0fe4810a448e.jpg)
+
 What is Unicorp ?
+
+We offer **clarity**, **strategic insight**, **professionalism** and **outstanding reliability**. We devise practical solutions and help business leaders make better decisions quicker.
+
+It is important to understand that our services are tailored
+to our clients' specific business needs, enabling important, informed decisions
+to be made.
